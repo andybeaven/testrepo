@@ -6,4 +6,4 @@
 4.   Stage the changes
 5.   commit - with message
 6.   push
-7. how to pull
+7. how to pull - do via git-bash
